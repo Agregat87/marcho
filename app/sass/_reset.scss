@@ -7,8 +7,9 @@ html {
 *::before {
   box-sizing: inherit;
 }
-ul [],
-ol[] {
+
+ul,
+ol {
   padding: 0;
 }
 
